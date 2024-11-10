@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+    height: 580px;
+}
+
+.bar{
+    
+    color: #565959;
+}
+
+.link{
+    
+    color: #007185;
+}
+
+.main-dev{
+    
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.info{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ratings-img{
+    
+    width: 120px;
+}
+
+.cats-pic{
+    
+    padding-left: 20px;
+}
+
+.long-para{
+    
+    text-align: justify;
+}
